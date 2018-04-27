@@ -1,0 +1,36 @@
+@media only screen and (max-width: 600px) {
+	.logo {
+		width: 60%;
+	}
+
+	main {
+		width: 95%;
+	}
+
+	.col-1-2 {
+		width: 95%;
+		float: none;
+		margin: 0 auto;
+	}
+	p em {
+		padding: 0 1em;
+	}
+
+	.sub-footer .col-1-2 {
+		margin: 0 auto;
+		float: none;
+	}
+
+	.time, .number, .location {
+		width: 100%;
+	}
+
+	.information {
+		width: 90%;
+	}
+
+	.contact {
+		padding-bottom: 1em;
+	}
+
+}
